@@ -1,5 +1,7 @@
 # Open Public Forum
 
+Unified Action, Universal Impact.
+
 The International Governance & Assistance Foundation (IGAF) is a non-profit organization dedicated to fostering global transparency, accountability, and collaboration. Its mission is to create a unified, blockchain-backed platform that primarily facilitates class action lawsuits, allowing entities of any scale, from individuals to nations, to join collectively in seeking justice in **class action lawsuits**. Beyond this, IGAF offers advisory services, resolution mechanisms, quality assurance, and education across multiple sectors. Governed by a rotating Board of Trustees and supported by specialized departments, IGAF strives to ensure every entity's voice is heard and their grievances addressed in a fair, transparent manner.
 
 IGAF is dedicated to truth, justice, assistance, transparency, cooperation, and leveraging AI to design fresh, new, wholistic, **effective, and impactful policy** at all levels.
