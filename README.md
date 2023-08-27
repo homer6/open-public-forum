@@ -9,6 +9,16 @@ The world has many challenges. This system is designed to move us in the directi
 All data, code, and AI models produced by IGAF are freely accessible and open source under the MIT License.
 
 
+## Target Outcomes:
+
+1. **Enhanced Accountability:** Entities, whether nations or corporations, are held to global standards of conduct.
+2. **Improved Transparency:** Clear, tamper-proof records ensure actions are transparent.
+3. **Efficient Assistance:** Entities in need can quickly access resources and help.
+4. **Elevated Quality:** Whether in journalism, science, or policy, standards are raised.
+5. **Global Collaboration:** An integrated platform fosters global cooperation and mutual assistance.
+
+
+
 ## Article 1 Prompt
 
 I want to create a new international legal system where any individual, company, organization, country, or collection of countries, or any combination of the above (hereafter referred to as entity), can sue any other entities promptly, fairly, and most importantly, bindingly with real damages.
