@@ -1,5 +1,7 @@
 # Open Public Forum
 
+TL;DR - This is a project to create and operate a technology-enabled, international legal system.
+
 Unified Action, Universal Impact.
 
 The International Governance & Assistance Foundation (IGAF) is a non-profit organization dedicated to fostering global transparency, accountability, and collaboration. Its mission is to create a unified, blockchain-backed platform that primarily facilitates class action lawsuits, allowing entities of any scale, from individuals to nations, to join collectively in seeking justice in **class action lawsuits**. Beyond this, IGAF offers advisory services, resolution mechanisms, quality assurance, and education across multiple sectors. Governed by a rotating Board of Trustees and supported by specialized departments, IGAF strives to ensure every entity's voice is heard and their grievances addressed in a fair, transparent manner.
@@ -8,7 +10,7 @@ IGAF is dedicated to truth, justice, assistance, transparency, cooperation, and 
 
 The world has many challenges. This system is designed to move us in the direction of solving them.
 
-All data, code, and AI models produced by IGAF are freely accessible and open source under the MIT License.
+All data, code, AI models, and all other intellectual materials produced by IGAF are freely accessible and open sourced under the MIT License. Also, this license can only change in the direction of more permissive and transparent. We chose the MIT License because it's widely recognized as one of the most permissive license in the world every item produced or acquired by this project is public domain (owned by the public).
 
 
 ## Target Outcomes:
