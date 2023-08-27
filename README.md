@@ -10,7 +10,7 @@ IGAF is dedicated to truth, justice, assistance, transparency, cooperation, and 
 
 The world has many challenges. This system is designed to move us in the direction of solving them.
 
-All data, code, AI models, and all other intellectual materials produced by IGAF are freely accessible and open sourced under the MIT License. Also, this license can only change in the direction of more permissive and transparent. We chose the MIT License because it's widely recognized as one of the most permissive license in the world every item produced or acquired by this project is public domain (owned by the public).
+All data, code, AI models, and all other intellectual materials produced by IGAF are freely accessible and open sourced under the MIT License. Also, this license can only change in the direction of more permissive and transparent. We chose the MIT License because it's widely recognized as one of the most permissive licenses in the world and every item produced or acquired by this project is public domain (owned by the citizens of every country on Earth).
 
 
 ## Target Outcomes:
