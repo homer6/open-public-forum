@@ -98,6 +98,8 @@ Creating an international system for journalism, where the aim is to establish a
 
 3. **Fact-checking Organizations:** With the rise of misinformation online, several international organizations, like Poynter's International Fact-Checking Network, have emerged to fact-check and debunk false information.
 
+4. **Collaborative Fact-Checking Platforms** Open platforms like CaptainFact rely on the public to debate and fact check articles and videos. 
+
 ### Limitations:
 
 1. **Jurisdiction:** Different countries have different standards for journalism, and not all countries will accept the jurisdiction of an international body.
